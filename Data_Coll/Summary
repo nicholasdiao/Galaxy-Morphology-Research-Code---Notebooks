@@ -1,0 +1,7 @@
+Data Collection and Processing
+
+These three files are what I used to begin my research process at the Carnegie Institution For Science. 
+I investigated the structure of middle-mass galaxies. 
+I began by combining UVISTA catalog into a central catalog for galaxies in our mass regime. 
+Then I pulled images of these galaxies from the NASA IRSA server. 
+Then I connected the images to the UVISTA data, and deleted rows without images.
